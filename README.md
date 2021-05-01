@@ -10,4 +10,4 @@ A simple quiz app that includes multiple choice and boolean questions of various
 
 ## Credits
 
-This app is learnt from a tutorial by [Geeksforgeeks](https://www.geeksforgeeks.org/basic-quiz-app-in-flutter-api/)
+Inspired by [Geeksforgeeks](https://www.geeksforgeeks.org/basic-quiz-app-in-flutter-api/)
